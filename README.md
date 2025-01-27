@@ -37,18 +37,18 @@ Conversión a cartesiano: Convierte un número complejo de polar a cartesiano.
 
 Fase: Obtiene la fase de un número complejo.
 
-Ejemplo de uso:
+#### Ejemplo de uso:
 from complex_numbers.operations import suma, resta, producto, division
 
-# Definir números complejos
+Definir números complejos
 z1 = (3, 4)  # 3 + 4i
 z2 = (1, 2)  # 1 + 2i
 
-# Sumar dos números complejos
+Sumar dos números complejos
 resultado_suma = suma(z1, z2)
 print(f"Suma: {resultado_suma}")
 
-# Restar dos números complejos
+Restar dos números complejos
 resultado_resta = resta(z1, z2)
 print(f"Resta: {resultado_resta}")
 
@@ -59,7 +59,7 @@ Ejecuta las pruebas automáticas con el siguiente comando:
 
 ```bash
    python -m unittest discover tests/
-
+``` 
 El sistema ejecutará las pruebas definidas en el directorio tests/ y te mostrará los resultados.
 
 ### Deployment
