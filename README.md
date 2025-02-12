@@ -2,7 +2,8 @@
 
 Este proyecto tiene dos cuadernillos que exploran el uso de números complejos y álgebra lineal en Python. El primer cuadernillo trata operaciones básicas con números complejos, visualizaciones y conjuntos fractales como el conjunto de Mandelbrot y el conjunto de Julia. El segundo cuadernillo tiene operaciones con vectores y matrices complejas, incluyendo suma, multiplicación por escalares, conjugación, transpuesta y adjunta. Estos ejercicios son fundamentales para aplicaciones en física cuántica, procesamiento de señales y más.
 
-Cuadernillos Principales
+# Cuadernillos Principales:
+
 ***1. complexintrojupy***
 Este cuadernillo contiene ejercicios sobre operaciones básicas con números complejos, visualizaciones y conjuntos fractales como el conjunto de Mandelbrot y el conjunto de Julia. Los ejercicios incluyen:
 
