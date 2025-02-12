@@ -14,10 +14,11 @@ Para ejecutar estos cuadernillos, necesitarás tener instalado Python 3 y las si
 - `matplotlib`: Para visualizaciones gráficas.
 - `ipywidgets` (opcional): Para interactividad en los ejercicios.
 
-Puedes instalar las dependencias usando `pip`:
+Para instalar las dependencias usando `pip`:
 
 ```bash
 pip install numpy matplotlib ipywidgets
+```
 
 ### Running the Tests
 Actualmente, este proyecto no tiene pruebas automatizadas, pero se pueden verificar manualmente los resultados de cada ejercicio comparándolos con los valores esperados proporcionados en los comentarios del código.
