@@ -1,52 +1,50 @@
-# complex-numbers-exercises-jupyter
-Ejercicios de numeros complejos y espacios vectoriales complejos
-# Complex Numbers Library
+# Complex Numbers and Linear Algebra in Python
 
-Librería en Python para realizar operaciones con números complejos modelados como tuplas.
+Este proyecto tiene dos cuadernillos que exploran el uso de números complejos y álgebra lineal en Python. El primer cuadernillo trata operaciones básicas con números complejos, visualizaciones y conjuntos fractales como el conjunto de Mandelbrot y el conjunto de Julia. El segundo cuadernillo tiene operaciones con vectores y matrices complejas, incluyendo suma, multiplicación por escalares, conjugación, transpuesta y adjunta. Estos ejercicios son fundamentales para aplicaciones en física cuántica, procesamiento de señales y más.
 
 ## Getting Started
 
+Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en una máquina local para propósitos de desarrollo y pruebas.
+
 ### Prerequisites
-Python 3.8 o superior.
 
-### Installing
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/jsfa2002/complex_numbers_project.git
-   cd complex_numbers_project
-   
-## Uso
-La librería operations.py contiene funciones para realizar las siguientes operaciones con números complejos:
+Para ejecutar estos cuadernillos, necesitarás tener instalado Python 3 y las siguientes bibliotecas:
 
-Suma: Suma dos números complejos.
+- `numpy`: Para operaciones numéricas con vectores y matrices.
+- `matplotlib`: Para visualizaciones gráficas.
+- `ipywidgets` (opcional): Para interactividad en los ejercicios.
 
-Resta: Resta dos números complejos.
+Puedes instalar las dependencias usando `pip`:
 
-Producto: Multiplica dos números complejos.
+```bash
+pip install numpy matplotlib ipywidgets
 
-División: Divide dos números complejos.
+### Running the Tests
+Actualmente, este proyecto no tiene pruebas automatizadas, pero se pueden verificar manualmente los resultados de cada ejercicio comparándolos con los valores esperados proporcionados en los comentarios del código.
 
-Módulo: Calcula el módulo de un número complejo.
+### Deployment
+Este proyecto está diseñado para fines educativos y de desarrollo local. 
 
-Conjugado: Obtiene el conjugado de un número complejo.
+### Built With
+Python: Lenguaje de programación principal.
 
-Conversión a polar: Convierte un número complejo de cartesiano a polar.
+NumPy: Para operaciones numéricas con vectores y matrices.
 
-Conversión a cartesiano: Convierte un número complejo de polar a cartesiano.
+Matplotlib: Para visualizaciones gráficas.
 
-Fase: Obtiene la fase de un número complejo.
+Jupyter Notebook: Para crear y compartir cuadernillos interactivos.
 
-## Deployment
-Este proyecto está listo para ser utilizado como una librería local. Puedes integrarlo fácilmente en otros proyectos de Python que necesiten realizar operaciones con números complejos sin usar el tipo de dato complex.
 
-## Built With
-Python - Lenguaje de programación utilizado
-unittest - Framework para pruebas automáticas
-## Contributing
-Si deseas contribuir a este proyecto, por favor realiza un fork del repositorio y envía tus mejoras o correcciones mediante un pull request. Asegúrate de que todas las pruebas estén pasando antes de enviar el pull request.
+### Versioning
+Se usó SemVer para el versionado. Para ver las versiones disponibles, se pueden consultar las etiquetas en este repositorio.
 
-## License
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles.
+### Authors
+Juan Sebastián Fajardo Acevedo: Trabajo inicial y mantenimiento del proyecto.
 
-## Acknowledgments
-Agradecimientos a la comunidad de Python por el soporte y las bibliotecas que permiten realizar proyectos como este.
+### License
+Este proyecto está licenciado bajo la Licencia MIT. Se puede conmsultar el archivo LICENSE.md para más detalles.
+
+### Acknowledgments
+Este proyecto fue inspirado por cursos de álgebra lineal y análisis complejo.
+
+Agradecimientos especiales a la comunidad de Python por sus increíbles bibliotecas y recursos.
