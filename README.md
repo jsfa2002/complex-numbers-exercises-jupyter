@@ -5,6 +5,7 @@ Este proyecto tiene dos cuadernillos que exploran el uso de números complejos y
 # Cuadernillos Principales:
 
 ***1. complexintrojupy***
+
 Este cuadernillo contiene ejercicios sobre operaciones básicas con números complejos, visualizaciones y conjuntos fractales como el conjunto de Mandelbrot y el conjunto de Julia. Los ejercicios incluyen:
 
 Operaciones básicas con números complejos (suma, resta, multiplicación, división).
@@ -16,6 +17,7 @@ Visualización de números complejos en el plano complejo.
 Exploración del conjunto de Mandelbrot y el conjunto de Julia.
 
 ***2.cpxvectormatrixjupy2***
+
 Este cuadernillo aborda operaciones con vectores y matrices complejas, incluyendo suma, multiplicación por escalares, conjugación, transpuesta y adjunta. Los ejercicios incluyen:
 
 Suma y negación de vectores complejos.
@@ -29,6 +31,7 @@ Cálculo de la transpuesta, conjugado y adjunta de matrices complejas.
 Además de los cuadernillos principales, este repositorio incluye dos documentos adicionales con ejercicios resueltos:
 
 ***1. TallerEsp.Vect-Hermitian-Unitary-Tensor-Circuits12225***
+
 Este documento contiene ejercicios sobre operaciones con matrices y vectores complejos, fundamentales en computación cuántica. Los ejercicios incluyen:
 
 Matrices Hermitianas: Verificación y cálculo de valores propios.
@@ -40,6 +43,7 @@ Productos Tensoriales: Cálculo de productos tensoriales para vectores y matrice
 Circuitos Cuánticos: Modelado de circuitos cuánticos como el interferómetro de Mach-Zehnder y el algoritmo de Deutsch.
 
 ***2. TallerEsp.Vect-ProdInterno-VectoPropios2***
+
 Este documento es acerca del cálculo de valores y vectores propios, así como en la descomposición espectral de matrices. Los ejercicios incluyen:
 
 Valores y Vectores Propios: Cálculo para matrices reales y complejas.
