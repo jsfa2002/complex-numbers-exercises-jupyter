@@ -24,6 +24,8 @@ Multiplicación de vectores y matrices por escalares complejos.
 
 Cálculo de la transpuesta, conjugado y adjunta de matrices complejas.
 
+# Documentos
+
 Además de los cuadernillos principales, este repositorio incluye dos documentos adicionales con ejercicios resueltos:
 
 ***1. TallerEsp.Vect-Hermitian-Unitary-Tensor-Circuits12225***
